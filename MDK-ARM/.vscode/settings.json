@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "main.h": "c",
+        "huaweiiot.h": "c",
+        "cstdlib": "c",
+        "freertos.h": "c",
+        "rtc.h": "c",
+        "cstdint": "c",
+        "compare": "c",
+        "usart.h": "c",
+        "adc.h": "c"
+    }
+}
