@@ -1,1 +1,1 @@
-stm32f103rct6_smartlight_huaweiiot
+stm32f103rct6_smartlight_huaweiiot_FREERTOS
